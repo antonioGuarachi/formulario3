@@ -1,0 +1,20 @@
+C:\Users\Strix\Documents\SharpDevelop Projects\HerramientasFormularioi\HerramientasFormularioi\bin\Debug\HerramientasFormularioi.exe.config
+C:\Users\Strix\Documents\SharpDevelop Projects\HerramientasFormularioi\HerramientasFormularioi\bin\Debug\HerramientasFormularioi.exe
+C:\Users\Strix\Documents\SharpDevelop Projects\HerramientasFormularioi\HerramientasFormularioi\bin\Debug\HerramientasFormularioi.pdb
+C:\Users\Strix\Documents\SharpDevelop Projects\HerramientasFormularioi\HerramientasFormularioi\obj\Debug\HerramientasFormularioi.csprojResolveAssemblyReference.cache
+C:\Users\Strix\Documents\SharpDevelop Projects\HerramientasFormularioi\HerramientasFormularioi\obj\Debug\HerramientasFormularioi.MainForm.resources
+C:\Users\Strix\Documents\SharpDevelop Projects\HerramientasFormularioi\HerramientasFormularioi\obj\Debug\HerramientasFormularioi.csproj.GenerateResource.Cache
+C:\Users\Strix\Documents\SharpDevelop Projects\HerramientasFormularioi\HerramientasFormularioi\obj\Debug\HerramientasFormularioi.exe
+C:\Users\Strix\Documents\SharpDevelop Projects\HerramientasFormularioi\HerramientasFormularioi\obj\Debug\HerramientasFormularioi.pdb
+C:\Users\Strix\Documents\SharpDevelop Projects\HerramientasFormularioi\HerramientasFormularioi\obj\Debug\HerramientasFormularioi.Ventana2.resources
+F:\HerramientasFormularioi\HerramientasFormularioi\bin\Debug\HerramientasFormularioi.exe.config
+F:\HerramientasFormularioi\HerramientasFormularioi\bin\Debug\HerramientasFormularioi.exe
+F:\HerramientasFormularioi\HerramientasFormularioi\bin\Debug\HerramientasFormularioi.pdb
+F:\HerramientasFormularioi\HerramientasFormularioi\obj\Debug\HerramientasFormularioi.csprojResolveAssemblyReference.cache
+F:\HerramientasFormularioi\HerramientasFormularioi\obj\Debug\HerramientasFormularioi.MainForm.resources
+F:\HerramientasFormularioi\HerramientasFormularioi\obj\Debug\HerramientasFormularioi.Ventana2.resources
+F:\HerramientasFormularioi\HerramientasFormularioi\obj\Debug\HerramientasFormularioi.csproj.GenerateResource.Cache
+F:\HerramientasFormularioi\HerramientasFormularioi\obj\Debug\HerramientasFormularioi.exe
+F:\HerramientasFormularioi\HerramientasFormularioi\obj\Debug\HerramientasFormularioi.pdb
+F:\HerramientasFormularioi\HerramientasFormularioi\obj\Debug\HerramientasFormularioi.Ventana3.resources
+F:\HerramientasFormularioi\HerramientasFormularioi\obj\Debug\HerramientasFormularioi.Ventana4.resources
